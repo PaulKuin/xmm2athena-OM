@@ -31,6 +31,8 @@ For more efficient processing of a large number of observations using arches is 
 
 In addition there are some shell scripts which were written for simple operations and some of those were not used in the processing at all.
 
+In the wiki the processing steps are described using a test subset. 
+
 **acknowledgement**
 This project has received funding from the European Union's Horizon 2020 research and innovation programme under Grant Agreement No. 101004168. 
 
